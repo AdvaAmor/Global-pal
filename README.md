@@ -5,3 +5,7 @@ This website was built using React, Redux, JavaScript, HTML, CSS in the frontend
 ### Running the project:
  npm run dev
 
+
+
+https://user-images.githubusercontent.com/96009988/145838644-35dadd48-7b37-4957-a11e-aef085929508.mp4
+
